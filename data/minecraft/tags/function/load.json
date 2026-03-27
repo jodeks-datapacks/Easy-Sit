@@ -1,6 +1,6 @@
 {
   "values": [
-    "easysit:setup",
-    "easysit:load_message"
+    "easy_sit:setup",
+    "easy_sit:load_message"
   ]
 }

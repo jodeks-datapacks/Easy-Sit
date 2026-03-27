@@ -1,19 +1,18 @@
-# Easy Sit
-
-<div style="display: flex; gap: 20px;">
-<a href="https://ko-fi.com/H2H011LYHJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
+<div align="center">
   
-<a href="https://github.com/sponsors/Jodekq" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Jodek-green?style=for-the-badge&logo=github&logoWidth=20" alt="Sponsor @Jodek" />
-</a>
+![easy sit datapack/mod title image minecraft](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/easy_sit.png)
+
 </div>
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
- </picture><br>
- 
-Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or create an issue on github_
+<div align="center">
+
+[![jodeks datapacks discord](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![jodeks datapacks matrix](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![easy sit minecraft datapack github issues](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Issues.png)](https://github.com/jodeks-datapacks/easy-sit/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Sponsor.png)](https://github.com/sponsors/Jodekq)
+
+</div>
 
 ## How it works
 
@@ -25,16 +24,9 @@ Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or cr
    
 3. Press right click
 
-**Double sneak mode**
-
-1. Look all the way down
-   
-2. Double sneak
-
 **OR run `/trigger sit` to sit**
 
 ### To not sit any longer press shift
-
 
 ## Config
 
