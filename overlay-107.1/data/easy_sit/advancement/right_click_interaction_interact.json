@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "entity_type": "minecraft:interaction",
+          "nbt": "{Tags:[\"easy_sit\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "easy_sit:sit/right_click_sit/mount"
+  }
+}
